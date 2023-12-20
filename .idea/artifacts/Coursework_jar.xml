@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coursework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coursework_jar</output-path>
+    <root id="archive" name="Coursework.jar">
+      <element id="module-output" name="Coursework" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfreechart-1.5.4/jfreechart-1.5.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j/slf4j-nop-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j/log4j-core-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-examples-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-excelant-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-ooxml-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/poi-scratchpad-3.14-20160307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-bin-3.14/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
